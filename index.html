@@ -1,0 +1,584 @@
+<!doctype html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+
+  <title>Caleb Atwood</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+
+  <style type="text/css">
+    @import url(https://fonts.googleapis.com/css?family=Lato:400,700
+);
+    body {
+      background: #fff;
+      font-family: Lato, sans-serif;
+      margin: 0 0 80px;
+    }
+
+    a {
+      color: #2ecc71;
+    }
+
+    a:focus,
+    a:hover {
+      color: #f1c40f;
+      text-decoration: none;
+    }
+
+    p {
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    p+p {
+      margin-top: 10px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      margin-top: 0
+    }
+
+    section {
+      margin-top: 30px;
+    }
+
+    li {
+      line-height: 1.8;
+      list-style: none;
+    }
+
+    li:before {
+      content: "\f052";
+      float: left;
+      font: 13px Octicons;
+      margin-top: 6px;
+      margin-left: -20px;
+      opacity: .1;
+      position: absolute;
+    }
+
+    blockquote {
+      border-left: 5px solid #e7e9ec;
+      font-size: 14px;
+    }
+
+    em {
+      color: #95a5a6;
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    h4 span:first-child {
+      color: #000;
+      font-weight: bold;
+    }
+
+    .container {
+      max-width: 750px;
+      padding: 0 30px;
+    }
+
+    .col-sm-6 {
+      margin-bottom: 10px;
+    }
+
+    .col-sm-12 h4 {
+      margin-top: 12px;
+    }
+
+    .col-sm-12+.col-sm-12 {
+      margin-top: 30px;
+    }
+
+    #header {
+      background: #f4f6f6;
+      padding: 50px 0;
+      margin-bottom: 30px;
+    }
+
+    #header h2 {
+      color: #95a5a6;
+      font-size: 24px;
+    }
+
+    #content h3 {
+      color: #f1c40f;
+      font-size: 26px;
+      margin-top: -4px;
+    }
+
+    #content aside {
+      text-align: right;
+      padding-right: 30px;
+    }
+
+    #profiles .network {
+      text-transform: capitalize;
+    }
+
+    #work .position,
+    #volunteer .position {
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    #education .area {
+      font-weight: bold;
+    }
+
+    #education .area:before {
+      content: "\f0d7";
+      font: 16px Octicons;
+      margin-right: 6px;
+    }
+
+    #education .studyType {
+      margin-left: 25px;
+    }
+
+    #awards .summary,
+    #publications .summary {
+      margin-top: 8px;
+    }
+
+    #publications .website a:before {
+      content: attr(href);
+    }
+
+    @media (min-width: 480px) {
+      .strike-through {
+        border-top: 1px solid #f4f6f6;
+        height: 20px;
+        margin-top: 12px;
+        margin-bottom: -2px;
+        position: relative;
+      }
+      .strike-through span,
+      .strike-through a {
+        background: #fff;
+        position: absolute;
+      }
+      .strike-through span:first-child {
+        padding-right: 20px;
+        margin-top: -12px;
+      }
+      .strike-through span+span {
+        font-size: 14px;
+        margin-top: -10px;
+        padding-left: 20px;
+        right: 0;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .col-sm-6:last-child {
+        margin-bottom: 0px;
+      }
+      #content aside {
+        margin-bottom: 20px;
+        padding-right: 0;
+        text-align: left;
+      }
+      #publications .website a:before {
+        content: "View publication";
+      }
+    }
+
+    @media (max-width: 480px) {
+      h1 {
+        font-size: 26px;
+      }
+      .date {
+        font-size: 14px;
+        margin-bottom: 5px;
+      }
+      .strike-through span:first-child {
+        margin-bottom: 7px;
+      }
+      .strike-through span {
+        display: block;
+      }
+      #header {
+        margin-bottom: 10px;
+        padding: 40px 0;
+      }
+      #actions {
+        display: none;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <header id="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 col-sm-push-3">
+          <h1>
+            Caleb Atwood
+          </h1>
+          <h2>
+            Software Developer
+          </h2>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div id="content" class="container">
+
+    <section id="contact" class="row">
+      <aside class="col-sm-3">
+        <h3>Contact</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-6">
+            <strong>Email</strong>
+            <div class="email">calebatwd@gmail.com</div>
+          </div>
+          <div class="col-sm-6">
+            <strong>Phone</strong>
+            <div class="phone">(307) 262-8579</div>
+          </div>
+          <div class="col-sm-6">
+            <strong>Website</strong>
+            <div class="website">
+              <a href="https://calebatwd.com">https://calebatwd.com</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="about" class="row">
+      <aside class="col-sm-3">
+        <h3>About</h3>
+      </aside>
+      <div class="col-sm-9">
+        <p>While my professional projects to date have primarily consisted of scaled backend services, database design, and
+          web frontends for Xbox Live, my personal projects walk the spectrum... mobile react apps, ecommerce sites, computer
+          vision algorithms, 3D reconstruction applications, game development, drone construction, home-security hardware
+          design, simulation, several musical projects, and a startup to boot.</p>
+      </div>
+    </section>
+    <section id="profiles" class="row">
+      <aside class="col-sm-3">
+        <h3>Profiles</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-6">
+            <strong class="network">
+						LinkedIn
+					</strong>
+            <div class="username">
+              <div class="url">
+                <a href="https://www.linkedin.com/in/calebatwd/">calebatwd</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <strong class="network">
+						GitHub
+					</strong>
+            <div class="username">
+              <div class="url">
+                <a href="https://github.com/calebatwd">calebatwd</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <strong class="network">
+						Facebook
+					</strong>
+            <div class="username">
+              <div class="url">
+                <a href="https://www.facebook.com/caleb.atwood">caleb.atwood</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <strong class="network">
+						Personal
+					</strong>
+            <div class="url">
+              <a href="http://calebatwd.com">http://calebatwd.com</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="work" class="row">
+      <aside class="col-sm-3">
+        <h3>Work</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>Microsoft</span>
+              <span class="date">
+						2012 — now
+					</span>
+            </h4>
+            <div class="website pull-right">
+              <a href=""></a>
+            </div>
+            <div class="position">
+              Software Development Engineer 2
+            </div>
+            <div class="summary">
+              <p>Service platform engineer on Xbox Live, the collection of services that comprise Xbox&#x27;s social graph,
+                content distribution, and multiplayer. On multiple occasions, I worked across org with other teams to bring
+                Xbox Live configuration to their products.</p>
+            </div>
+            <h4>Highlights</h4>
+            <ul class="highlights">
+              <li class="bullet">Primary dev on Xbox Developer Portal</li>
+              <li class="bullet">Patented design for Xbox Devkit Conversion</li>
+              <li class="bullet">Worked as consulting member to the Windows Dev Center to bring games to Windows.</li>
+              <li class="bullet">Worked directly with Minecraft to enable User Generated Content for the title.</li>
+              <li class="bullet">Lead a small team in designing Game Modes, a realtime configuration service for tournaments on Xbox.</li>
+            </ul>
+          </div>
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>MyFit Inc.</span>
+              <span class="date">
+						2011 — 2012
+					</span>
+            </h4>
+            <div class="website pull-right">
+              <a href=""></a>
+            </div>
+            <div class="position">
+              Co-Founder and Lead Developer
+            </div>
+            <div class="summary">
+              <p>Mixing the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely fresh 3D in-browser
+                experience, myFit seeks to change the way you shop for clothing. My job entailed system architecture design,
+                task lead, back-end and front-end developing, 2D and 3D computer vision, and product design.</p>
+            </div>
+            <h4>Highlights</h4>
+            <ul class="highlights">
+              <li class="bullet">Won the Plug and Play Tech Accelerator in Sunnyvale, CA.</li>
+              <li class="bullet">Project lead of a team of 3 engineers</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="education" class="row">
+      <aside class="col-sm-3">
+        <h3>Education</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>University of Notre Dame</span>
+              <span class="date">
+						2008 — 2012
+					</span>
+            </h4>
+            <div class="area">
+              Electrical Engineering
+            </div>
+            <div class="studyType">
+              BS
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="awards" class="row">
+      <aside class="col-sm-3">
+        <h3>Awards</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>Patent filed for Securely Enabling Devkits</span>
+            </h4>
+            <div class="date pull-right">
+              <em>Awarded</em> 2017-6-13
+            </div>
+            <div class="awarder">
+              <em>by</em>
+              <strong>United States Patent Office</strong>
+            </div>
+            <div class="summary">
+              Co-inventor on a new method for securely converting retail hardware devices into development kits.
+            </div>
+          </div>
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>Patent filed for Cloud-Based 3D Body Reconstruction</span>
+            </h4>
+            <div class="date pull-right">
+              <em>Awarded</em> 2012-9-9
+            </div>
+            <div class="awarder">
+              <em>by</em>
+              <strong>United States Patent Office</strong>
+            </div>
+            <div class="summary">
+              Co-inventor on a new method for uploading and processing 3 dimensional point clouds of the human body with the purpose of
+              generating a mesh.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="publications" class="row">
+      <aside class="col-sm-3">
+        <h3>Projects</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>Festival</span>
+              <span class="date">
+						
+					</span>
+            </h4>
+            <div class="website pull-right">
+              <a href=""></a>
+            </div>
+            <div class="publisher">
+              <em>Published by</em>
+              <strong></strong>
+            </div>
+            <div class="summary">
+              <p>A react-native + redux ios application built with firebase for localized conversations and realtime sharing
+                at music festivals
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-12">
+            <h4 class="strike-through">
+              <span>Minecraft Go</span>
+              <span class="date">
+						
+					</span>
+            </h4>
+            <div class="website pull-right">
+              <a href=""></a>
+            </div>
+            <div class="publisher">
+              <em>Published by</em>
+              <strong></strong>
+            </div>
+            <div class="summary">
+              <p>An augmented realty mobile app based on Pokemon Go, with real terrain and procedurally generated structures
+                that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="row">
+      <aside class="col-sm-3">
+        <h3>Skills</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="name">
+              <h4>Backend Services</h4>
+            </div>
+            <ul class="keywords">
+              <li>C# .NET</li>
+              <li>SQL</li>
+              <li>Azure Storage</li>
+              <li>Document Store</li>
+              <li>CDN</li>
+              <li>Entity Framework</li>
+              <li>REST</li>
+            </ul>
+          </div>
+          <div class="col-sm-6">
+            <div class="name">
+              <h4>Web Development</h4>
+            </div>
+            <ul class="keywords">
+              <li>Javascript</li>
+              <li>ASP.NET</li>
+              <li>Angular</li>
+              <li>React</li>
+              <li>Firebase</li>
+            </ul>
+          </div>
+          <div class="col-sm-6">
+            <div class="name">
+              <h4>Graphics and Processing</h4>
+            </div>
+            <ul class="keywords">
+              <li>Unity</li>
+              <li>OpenGL</li>
+              <li>OpenCv</li>
+              <li>Point Cloud Library</li>
+              <li>C++</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="interests" class="row">
+      <aside class="col-sm-3">
+        <h3>Interests</h3>
+      </aside>
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="name">
+              <h4>Tech</h4>
+            </div>
+            <ul class="keywords">
+              <li>Augmented Reality</li>
+              <li>Node</li>
+              <li>React-Native</li>
+              <li>Redux</li>
+              <li>Autonomous Flight</li>
+              <li>Firestore</li>
+            </ul>
+          </div>
+          <div class="col-sm-6">
+            <div class="name">
+              <h4>Music</h4>
+            </div>
+            <ul class="keywords">
+              <li>Drumming</li>
+              <li>Guitar</li>
+              <li>Live Performance</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  </div>
+
+</body>
+
+</html>
