@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Caleb Atwood",
+    "label": "Software Developer",
+    "picture": "https://avatars0.githubusercontent.com/u/7191591?v=4&s=400&u=9f3db132271661f1edaa67ae34e79d7df4cc04f9",
+    "email": "calebatwd@gmail.com",
+    "phone": "(307) 262-8579",
+    "website": "https://calebatwd.com",
+    "summary": "While my professional projects to date have primarily consisted of scaled backend services, database design, and web frontends for Xbox Live, my personal projects walk the spectrum... mobile react apps, ecommerce sites, computer vision algorithms, 3D reconstruction applications, game development, drone construction, home-security hardware design, simulation, several musical projects, and a startup to boot.",
+    "location": {
+      "address": "2400 4th Ave Apt 305",
+      "postalCode": "WA 98121",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "calebatwd",
+        "url": "https://www.linkedin.com/in/calebatwd/"
+      },
+      {
+        "network": "GitHub",
+        "username": "calebatwd",
+        "url": "https://github.com/calebatwd"
+      },
+      {
+        "network": "Facebook",
+        "username": "caleb.atwood",
+        "url": "https://www.facebook.com/caleb.atwood"
+      },
+      {
+        "network": "Personal",
+        "username": "",
+        "url": "http://calebatwd.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Microsoft",
+      "position": "Software Development Engineer 2",
+      "website": "",
+      "startDate": "2012-8-20",
+      "endDate": "now",
+      "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, content distribution, and multiplayer. On multiple occasions, I worked across org with other teams to bring Xbox Live configuration to their products.",
+      "highlights": [
+        "Primary dev on Xbox Developer Portal",
+        "Patented design for Xbox Devkit Conversion",
+        "Worked as consulting member to the Windows Dev Center to bring games to Windows.",
+        "Worked directly with Minecraft to enable User Generated Content for the title.",
+        "Lead a small team in designing Game Modes, a realtime configuration service for tournaments on Xbox."
+      ]
+    },
+    {
+      "company": "MyFit Inc.",
+      "position": "Co-Founder and Lead Developer",
+      "website": "",
+      "startDate": "2011-5-12",
+      "endDate": "2012-8-12",
+      "summary": "Mixing the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely fresh 3D in-browser experience, myFit seeks to change the way you shop for clothing. My job entailed system architecture design, task lead, back-end and front-end developing, 2D and 3D computer vision, and product design.",
+      "highlights": [
+        "Won the Plug and Play Tech Accelerator in Sunnyvale, CA.",
+        "Project lead of a team of 3 engineers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Notre Dame",
+      "area": "Electrical Engineering",
+      "studyType": "BS",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Patent filed for Securely Enabling Devkits",
+      "date": "2017-6-13",
+      "awarder": "United States Patent Office",
+      "summary": "Co-inventor on a new method for securely converting retail hardware devices into development kits."
+    },
+    {
+      "title": "Patent filed for Cloud-Based 3D Body Reconstruction",
+      "date": "2012-9-9",
+      "awarder": "United States Patent Office",
+      "summary": "Co-inventor on a new method for uploading and processing 3 dimensional point clouds of the human body with the purpose of generating a mesh."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Festival",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "A react-native + redux ios application built with firebase for localized conversations and realtime sharing at music festivals"
+    },
+    {
+      "name": "Minecraft Go",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "An augmented realty mobile app based on Pokemon Go, with real terrain and procedurally generated structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. "
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Services",
+      "level": "Master",
+      "keywords": [
+        "C# .NET",
+        "SQL",
+        "Azure Storage",
+        "Document Store",
+        "CDN",
+        "Entity Framework",
+        "REST"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "Javascript",
+        "ASP.NET",
+        "Angular",
+        "React",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Graphics and Processing",
+      "level": "Proficient",
+      "keywords": [
+        "Unity",
+        "OpenGL",
+        "OpenCv",
+        "Point Cloud Library",
+        "C++"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Tech",
+      "keywords": [
+        "Augmented Reality",
+        "Node",
+        "React-Native",
+        "Redux",
+        "Autonomous Flight",
+        "Firestore"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Drumming",
+        "Guitar",
+        "Live Performance"
+      ]
+    }
+  ],
+  "references": []
+}
