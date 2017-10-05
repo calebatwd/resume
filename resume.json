@@ -46,11 +46,11 @@
       "endDate": "now",
       "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, content distribution, and multiplayer. On multiple occasions, I worked across org with other teams to bring Xbox Live configuration to their products.",
       "highlights": [
-        "Primary dev on Xbox Developer Portal",
-        "Patented design for Xbox Devkit Conversion",
-        "Worked as consulting member to the Windows Dev Center to bring games to Windows.",
-        "Worked directly with Minecraft to enable User Generated Content for the title.",
-        "Lead a small team in designing Game Modes, a realtime configuration service for tournaments on Xbox."
+        "Primary dev on Xbox Developer Portal solving for catalog, ingestion, and frontend features.",
+        "Designed, built, and subsoquently filed a patent for a Xbox Devkit Conversion system. See Patents.",
+        "Lead an initiative to integrate the Xbox publishing backend with the Windows Dev Center frontend to enable large game binary encryption workflows in the Windows Dev Center",
+        "Delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
+        "Lead a small team in designing Game Modes, a realtime configuration service for describing custom gameplay options for multiplayer titles, currently visible in the shell during tournament creation."
       ]
     },
     {
@@ -59,7 +59,7 @@
       "website": "",
       "startDate": "2011",
       "endDate": "2012",
-      "summary": "Mixing the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely fresh 3D in-browser experience, myFit seeks to change the way you shop for clothing. My job entailed system architecture design, task lead, back-end and front-end developing, 2D and 3D computer vision, and product design.",
+      "summary": "Mixing the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely fresh 3D in-browser experience, myFit's goal was to change the way you shop for clothing. My role entailed system architecture design, task lead, back-end and front-end developing, 2D and 3D computer vision, and product design.",
       "highlights": [
         "Won the Plug and Play Tech Accelerator in Sunnyvale, CA.",
         "Project lead of a team of 3 engineers"
