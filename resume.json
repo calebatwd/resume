@@ -47,10 +47,10 @@
       "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, content distribution, and multiplayer. On multiple occasions, I worked across org with other teams to bring Xbox Live configuration to their products.",
       "highlights": [
         "Primary dev on Xbox Developer Portal solving for catalog, ingestion, and frontend features.",
-        "Designed, built, and subsoquently filed a patent for a Xbox Devkit Conversion system. See Patents.",
+        "Designed, built, and subsequently filed a patent for a Xbox Devkit Conversion system. See Patents.",
         "Lead an initiative to integrate the Xbox publishing backend with the Windows Dev Center frontend to enable large game binary encryption workflows in the Windows Dev Center",
         "Delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
-        "Lead a small team in designing Game Modes, a realtime configuration service for describing custom gameplay options for multiplayer titles, currently visible in the shell during tournament creation."
+        "Lead a small team in designing Game Modes, a real-time configuration service for describing custom gameplay options for multiplayer titles, currently visible in the shell during tournament creation."
       ]
     },
     {
@@ -80,16 +80,16 @@
   ],
   "awards": [
     {
-      "title": "Patent filed for Securely Enabling Devkits",
-      "date": "2017-6-13",
-      "awarder": "United States Patent Office",
-      "summary": "Co-inventor on a new method for securely converting retail hardware devices into development kits."
+      "title": "Converting a Retail Gaming Device Into A Development Kit Remotely",
+      "date": "2017-6-16",
+      "awarder": "Filing with USPTO",
+      "summary": "Console development hardware is specialized hardware that is provided to developers. This solution facilitates the activation of development capabilities remotely in order to allow any retail device to be used for development."
     },
     {
-      "title": "Patent filed for Cloud-Based 3D Body Reconstruction",
-      "date": "2012-9-9",
-      "awarder": "United States Patent Office",
-      "summary": "Co-inventor on a new method for uploading and processing 3 dimensional point clouds of the human body with the purpose of generating a mesh."
+      "title": "Method and System for Creating a Virtual Avatar for Fitting Clothing",
+      "date": "2012-9-28",
+      "awarder": "Filed with USPTO",
+      "summary": "Inventor on a new method for uploading and processing 3 dimensional point cloud scans of the human body to simulate clothing physics on the reconstructed mesh."
     }
   ],
   "publications": [
@@ -98,14 +98,14 @@
       "publisher": "",
       "releaseDate": "",
       "website": "",
-      "summary": "A react-native + redux ios application built with firebase for localized conversations and realtime sharing at music festivals"
+      "summary": "A React-Native + Redux IOS application built with Firebase for sharing geo-localized conversation and content at music festivals."
     },
     {
       "name": "Minecraft Go",
       "publisher": "",
       "releaseDate": "",
       "website": "",
-      "summary": "An augmented realty mobile app based on Pokemon Go, with real terrain and procedurally generated structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. "
+      "summary": "An augmented reality mobile app based on Pokemon Go, with real terrain and procedurally generated structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. "
     }
   ],
   "skills": [
