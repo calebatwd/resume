@@ -6,7 +6,7 @@
     "email": "calebatwd@gmail.com",
     "phone": "(307) 262-8579",
     "website": "https://calebatwd.com",
-    "summary": "While my professional projects to date have primarily consisted of scaled backend services, database design, and web frontends for Xbox Live, my personal projects walk the spectrum... mobile react apps, ecommerce sites, computer vision algorithms, 3D reconstruction applications, game development, drone construction, home-security hardware design, simulation, several musical projects, and a startup to boot.",
+    "summary": "Full stack software developer looking for a platform or services developer role. My professional projects to date have primarily consisted of scaled backend services, database design, and web frontends for Xbox Live. Before that, I co-founded MyFit Inc, a computer vision startup which recieved angel funding and placement in one of the Bay Area tech accelerators. Outside of work, my personal projects span a broad range of topics... mobile react apps, crowd-sourced ecommerce sites, computer vision algorithms, 3D reconstruction applications, game development, drone construction, home-security hardware design, and several music projects.",
     "location": {
       "address": "2400 4th Ave Apt 305",
       "postalCode": "WA 98121",
@@ -43,14 +43,14 @@
       "position": "Software Development Engineer 2",
       "website": "",
       "startDate": "2012",
-      "endDate": "now",
-      "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, content distribution, and multiplayer. On multiple occasions, I worked across org with other teams to bring Xbox Live configuration to their products.",
+      "endDate": "present",
+      "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, catalog, content distribution, and multiplayer.",
       "highlights": [
-        "Primary dev on Xbox Developer Portal solving for catalog, ingestion, and frontend features.",
-        "Designed, built, and subsequently filed a patent for a Xbox Devkit Conversion system. See Patents.",
+        "Primary dev on Xbox Developer Portal. Catalog, media ingestion, and frontend features.",
+        "Designed, implemented, and filed a patent on an innovative solution for remotely enabling devkit capabilities on retail Xbox devices. See Patents.",
         "Lead an initiative to integrate the Xbox publishing backend with the Windows Dev Center frontend to enable large game binary encryption workflows in the Windows Dev Center",
-        "Delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
-        "Lead a small team in designing Game Modes, a real-time configuration service for describing custom gameplay options for multiplayer titles, currently visible in the shell during tournament creation."
+        "Designed and delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
+        "Managed a small team in architecting and implementing Game Modes, a real-time configuration service for describing custom gameplay options for multiplayer titles, currently driving tournament creation on Xbox."
       ]
     },
     {
@@ -59,10 +59,11 @@
       "website": "",
       "startDate": "2011",
       "endDate": "2012",
-      "summary": "Mixing the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely fresh 3D in-browser experience, myFit's goal was to change the way you shop for clothing. My role entailed system architecture design, task lead, back-end and front-end developing, 2D and 3D computer vision, and product design.",
+      "summary": "Integrated the Microsoft Kinect, cutting edge 3D computer vision algorithms, and a completely novel 3D in-browser experience in order to change the way consumers shop for clothes online.",
       "highlights": [
-        "Won the Plug and Play Tech Accelerator in Sunnyvale, CA.",
-        "Project lead of a team of 3 engineers"
+        "In charge of system architecture design, task lead, back-end and front-end development, 2D and 3D computer vision implementation, and product design.",
+        "Oversaw team of 3 engineers spanning research, graphics, and platform development.",
+        "Won Plug and Play Fall EXPO, a Sunnyvale tech accelerator."
       ]
     }
   ],
@@ -83,7 +84,7 @@
       "title": "Converting a Retail Gaming Device Into A Development Kit Remotely",
       "date": "2017-6-16",
       "awarder": "Filing with USPTO",
-      "summary": "Console development hardware is specialized hardware that is provided to developers. This solution facilitates the activation of development capabilities remotely in order to allow any retail device to be used for development."
+      "summary": "This solution facilitates the activation of development capabilities remotely in order to allow any retail device to be used for development. I designed a device management service, which utilizes existing role management systems to grant runtime certificates to consoles on boot."
     },
     {
       "title": "Method and System for Creating a Virtual Avatar for Fitting Clothing",
@@ -106,6 +107,21 @@
       "releaseDate": "",
       "website": "",
       "summary": "An augmented reality mobile app based on Pokemon Go, with real terrain and procedurally generated structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. "
+    },
+    {
+      "name": "More Games",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Sky Vanguard (3D muliplayer cannon shooter), NDMatchMe (javascript college dating game), Marble Deep (3D multiplayer virtual chat space), Tanks (mobile arcade jumper), Rogue Rider (isometric wasteland driver)."
+    }
+    ,
+    {
+      "name": "Other Projects",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Ann Arbor Book Barter (open university book exchange), NDTees (college t-shirt marketplace), Facial Iterative Closest Point (biometric recognition), Magic The Recognition (automated card scanner), Norca (drummer of live performance group featuring 15 original songs)."
     }
   ],
   "skills": [
