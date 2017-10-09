@@ -46,11 +46,11 @@
       "endDate": "present",
       "summary": "Service platform engineer on Xbox Live, the collection of services that comprise Xbox's social graph, catalog, content distribution, and multiplayer.",
       "highlights": [
+        "Managed a small team in architecting and implementing Game Modes, a real-time configuration service for describing custom gameplay options for multiplayer titles.",
+        "Designed and delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
         "Primary dev on Xbox Developer Portal. Catalog, media ingestion, and frontend features.",
         "Designed, implemented, and filed a patent on an innovative solution for remotely enabling devkit capabilities on retail Xbox devices. See Patents.",
-        "Lead an initiative to integrate the Xbox publishing backend with the Windows Dev Center frontend to enable large game binary encryption workflows in the Windows Dev Center",
-        "Designed and delivered a content and catalog management system for enabling user generated content, currently used in Minecraft's custom content store.",
-        "Managed a small team in architecting and implementing Game Modes, a real-time configuration service for describing custom gameplay options for multiplayer titles, currently driving tournament creation on Xbox."
+        "Lead an initiative to integrate the Xbox publishing backend with the Windows Dev Center frontend to enable large game binary encryption workflows in the Windows Dev Center"
       ]
     },
     {
@@ -84,7 +84,7 @@
       "title": "Converting a Retail Gaming Device Into A Development Kit Remotely",
       "date": "2017-6-16",
       "awarder": "Filing with USPTO",
-      "summary": "This solution facilitates the activation of development capabilities remotely in order to allow any retail device to be used for development. I designed a device management service, which utilizes existing role management systems to grant runtime certificates to consoles on boot."
+      "summary": "This solution facilitates the activation of development capabilities remotely in order to allow any retail device to be used for development. I designed a device management service to grant runtime certificates to consoles on boot."
     },
     {
       "title": "Method and System for Creating a Virtual Avatar for Fitting Clothing",
@@ -99,14 +99,14 @@
       "publisher": "",
       "releaseDate": "",
       "website": "",
-      "summary": "A React-Native + Redux IOS application built with Firebase for sharing geo-localized conversation and content at music festivals."
+      "summary": "A React-Native + Redux IOS application built with Firebase for sharing geo-localized conversations and content at music festivals."
     },
     {
-      "name": "Minecraft Go",
+      "name": "BlockCraft Go",
       "publisher": "",
       "releaseDate": "",
       "website": "",
-      "summary": "An augmented reality mobile app based on Pokemon Go, with real terrain and procedurally generated structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen. "
+      "summary": "An AR mobile game based on Pokemon Go, with procedurally generated terrain and structures that resemble those from the game Minecraft. Built with Unity, Google Places, and MapZen."
     },
     {
       "name": "More Games",
@@ -121,7 +121,7 @@
       "publisher": "",
       "releaseDate": "",
       "website": "",
-      "summary": "Ann Arbor Book Barter (open university book exchange), NDTees (college t-shirt marketplace), Facial Iterative Closest Point (biometric recognition), Magic The Recognition (automated card scanner), Norca (drummer of live performance group featuring 15 original songs)."
+      "summary": "Ann Arbor Book Barter (open university book exchange), NDTees (college t-shirt marketplace), Facial Iterative Closest Point (biometric recognition), Magic The Recognition (automated card scanner), Norca (drummer of live performance group)."
     }
   ],
   "skills": [
